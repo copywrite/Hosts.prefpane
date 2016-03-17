@@ -1,3 +1,10 @@
+Hosts.
+----------------------------------------------------------
+
+I modified the app, so that i could add a comment to each of the host lines.
+
+You can fetch the source and build the app by yourself, or download the compiled binary [here](https://github.com/copywrite/Hosts.prefpane/blob/master/release/Hosts.app.zip), not recommended
+
 Hosts, a system preference pane to manage your hosts file.
 ----------------------------------------------------------
 
